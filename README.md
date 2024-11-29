@@ -1,7 +1,7 @@
 # Weather-App-iOS
 
 
-![Simulator Screenshot - iPhone 16 1](https://github.com/user-attachments/assets/c2e5012b-872b-4782-a07f-6cc0505e2a97)
+![Simulator Screenshot - iPhone 16 5](https://github.com/user-attachments/assets/b3e3482c-e612-4336-89c1-a4e3d1b56171)
 ![Simulator Screenshot - iPhone 16 2](https://github.com/user-attachments/assets/745fc88d-3349-4f8a-9acb-50be058128b4)
 
 ![Simulator Screenshot - iPhone 16 3](https://github.com/user-attachments/assets/ac6bd680-d3b4-439b-acb6-c9fae69f666a)
